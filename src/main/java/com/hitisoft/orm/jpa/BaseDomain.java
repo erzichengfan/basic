@@ -1,4 +1,4 @@
-package com.hitisoft.orm.util;
+package com.hitisoft.orm.jpa;
 
 import java.util.Date;
 
